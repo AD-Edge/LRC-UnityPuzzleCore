@@ -15,20 +15,18 @@ Current front-end (very WIP!) mini-game based on MathBlaster. This is a starting
 
 ![nostalgia](images/screen01.png)
 
-## Updates: 
-
-\
+## Updates:  
 
 [13/03/2022] Frontend test scene with initial image retrieval found in /FrontEndDemo_Unity:
 
 Soon this will allow users (via a interface I havent made yet) to create their own game sessions and upload redpackets to be won.
 
-![success](images/screen06_success.png)
+![success](images/screen06_success.png)  
 
-\
+<hr>
 
 [12/03/2022] Created Repo, uploaded v0.2 Loopblaster to itch.io, sharing progress of LRC-UPC here.
 
-\
+<hr>
 
 By Alex Delderfield 2022
