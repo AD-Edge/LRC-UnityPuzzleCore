@@ -2,7 +2,7 @@
 A WIP Project for Unity GameDev in the Loopring ecosystem. 
 Aiming for a foundation to build puzzle-based mini-games where [RedPackets/LRC/etc] are the prize!
 
-## WIP/Plan
+## Plan/Overview
 Current system schematic/overview:
 
 ![currentplan](images/schematic_01.png)
