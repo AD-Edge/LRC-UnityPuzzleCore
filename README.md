@@ -15,11 +15,11 @@ Loopblaster Playable on itch.io:
 
 ![nostalgia](images/screen01.png)
 
-Frontend demo scene with initial image retrieval uploaded to this repo:
+Frontend test scene with initial image retrieval found in /FrontEndDemo_Unity:
 
 ![success](images/screen06_success.png)
 
-Soon this will allow users (via a interface I havent made yet) to create their own game setups and upload redpackets to be won.
+Soon this will allow users (via a interface I havent made yet) to create their own game sessions and upload redpackets to be won.
 
 
 By Alex Delderfield 2022
