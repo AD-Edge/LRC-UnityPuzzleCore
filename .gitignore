@@ -5,6 +5,7 @@
 [Bb]uild/
 [Dd]ebug/
 [Rr]elease/
+[Ll]ogs/
 
 # Visual Studio 2015 cache directory
 /.vs/
