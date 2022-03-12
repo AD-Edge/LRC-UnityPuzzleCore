@@ -10,9 +10,16 @@ Current system schematic/overview:
 ## Applications
 Current front-end (very WIP) mini-game based on MathBlaster to demo this system.
 
-Playable on itch.io: 
+Loopblaster Playable on itch.io: 
 **https://alex-adedge.itch.io/loopblaster-mathblaster**
 
 ![nostalgia](images/screen01.png)
+
+Frontend demo scene with initial image retrieval uploaded to this repo:
+
+![success](images/screen06_success.png)
+
+Soon this will allow users (via a interface I havent made yet) to create their own game setups and upload redpackets to be won.
+
 
 By Alex Delderfield 2022
